@@ -12,8 +12,7 @@ This Power BI dashboard analyzes insurance claims data, providing key insights i
 
 ## 📂 Files
 - `Insurance_Cliam_Power_BI.pbix` - Power BI report file.
-- `Dashboard_Screenshot.png` - Preview of the dashboard (add a screenshot here).
-- `Report.pdf` - Exported report summary (optional).
+- `insurance.csv` - A sample dataset used for analysis in the dashboard..
 
 ## 🛠 How to Use
 1. **Download the `.pbix` file**.
